@@ -1,5 +1,4 @@
 theme: jekyll-theme-time-machine
 title: Welcome to Jack Chang's homepage!
 description: Feel free to look around!
-includes: aboutme.md
-include: aboutme.md
+include: [master, aboutme.md]
