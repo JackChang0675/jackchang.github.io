@@ -1,4 +1,4 @@
-[About Me](https://github.com/JackChang0675/jackchang.github.io/aboutme.html)     [Youtube](https://youtube.com)     [Google](https://google.com)
+[About Me](https://jackchang0675/jackchang.github.io/aboutme.html)\t\t[Youtube](https://youtube.com)\t\t[Google](https://google.com)
 
 ## Welcome to GitHub Pages
 
