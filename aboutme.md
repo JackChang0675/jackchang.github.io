@@ -1,4 +1,4 @@
-## Jack Chang
+## About Me
 
 ## Welcome to GitHub Pages
 
